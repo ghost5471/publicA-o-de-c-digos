@@ -1,4 +1,4 @@
-# Transformando metros;
+# Transformando em métros
 #Onde o usuário dgitará oq ele quer:
 
 a2 = int(input('digite os metros'))
